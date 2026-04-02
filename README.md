@@ -1,6 +1,7 @@
 # Farmer System – Community Web Application 🌾
 
-## 📌 Project Overview  
+## 📌 Project Overview
+
 The **Farmer System** is a front-end community-based web application designed to help farmers connect and share information.  
 Users can register, log in, create crop-related posts, interact through likes, dislikes, and comments, and manage their personal profiles.
 
@@ -11,6 +12,7 @@ This project is developed using **pure HTML, CSS, and JavaScript**, without any 
 ---
 
 ## ✨ Key Features
+
 - 🔐 Secure User Registration and Login
 - 🔁 Forgot Password / Reset Password functionality
 - 🏠 Community Feed to view farmer posts
@@ -26,6 +28,7 @@ This project is developed using **pure HTML, CSS, and JavaScript**, without any 
 ---
 
 ## 🛠 Technologies Used
+
 - **HTML5** – Structure of the web application  
 - **CSS3** – Styling and responsive design  
 - **JavaScript (Vanilla JS)** – Application logic and interactivity  
@@ -33,6 +36,7 @@ This project is developed using **pure HTML, CSS, and JavaScript**, without any 
 ---
 
 ## 🚀 How to Run the Project
+
 1. Download or clone the repository:
    ```bash
    git clone https://github.com/ajitrloni27/F2F-Data-Exchange-.git
