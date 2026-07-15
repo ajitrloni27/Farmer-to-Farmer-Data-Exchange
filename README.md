@@ -11,6 +11,7 @@ The application supports English and Kannada, making it accessible to a wider ru
 ⚠️ This project is built using HTML, CSS, and JavaScript only, without any backend or database.
 
 
+
 ✨ Key Features
 🔐 User Registration and Login (frontend-based)
 🔁 Forgot / Reset Password functionality
