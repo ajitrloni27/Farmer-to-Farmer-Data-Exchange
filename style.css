@@ -52,6 +52,7 @@ li:hover {
     transform: scale(1.02);
     background: #e7ebf0;
 }
+
 .completed {
     text-decoration: line-through;
     opacity: 0.6;
