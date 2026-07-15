@@ -18,6 +18,7 @@ function renderTasks() {
             saveTasks();
             renderTasks();
         };
+        
         let actions = document.createElement("div");
         actions.className = "actions";
         let editBtn = document.createElement("button");
